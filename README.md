@@ -32,13 +32,14 @@ The data was collected from [ESPN Cricinfo](https://stats.espncricinfo.com) and 
 ## 📸 Screenshots
 
 ### Batting Page
-![Batting Dashboard](https://github.com/octopus234/Cricket_Player_Performance_Dashboard/blob/main/Screenshots/Batting.png)
+![Batting Dashboard](https://github.com/octopus234/Cricket_Player_Performance_Dashboard/blob/main/Batting%20Page.png?raw=true)
+
 
 ### Bowling Page
-![Bowling Dashboard](https://github.com/octopus234/Cricket_Player_Performance_Dashboard/blob/main/Screenshots/Bowling.png)
+![Bowling Dashboard](https://github.com/octopus234/Cricket_Player_Performance_Dashboard/blob/main/Bowling%20Page.png?raw=true)
 
 ### Fielding Page
-![Fielding Page](https://github.com/octopus234/Cricket_Player_Performance_Dashboard/blob/main/Screenshots/Fielding.png)
+![Fielding Page](https://github.com/octopus234/Cricket_Player_Performance_Dashboard/blob/main/Fielding%20Page.png?raw=true)
 
 ---
 ## 🎥 Demo Video
