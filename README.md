@@ -32,13 +32,13 @@ The data was collected from [ESPN Cricinfo](https://stats.espncricinfo.com) and 
 ## 📸 Screenshots
 
 ### Batting Page
-![Batting Page](Batting-Page.png)
+![Batting Page](Batting Page.png)
 
 ### Bowling Page
-![Bowling Page](Bowling-Page.png)
+![Bowling Page](Bowling Page.png)
 
 ### Fielding Page
-![Fielding Page](Fielding-Page.png)
+![Fielding Page](Fielding Page.png)
 
 ---
 ## 🎥 Demo Video
