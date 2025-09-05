@@ -1,4 +1,6 @@
 # 🏏 Cricket Player Performance Dashboard
+## 📊 Dashboard Overview
+![Dashboard Overview](Dashboard_Overview.png)
 
 This project is an *interactive Power BI dashboard* analyzing cricket player performance across *Batting, Bowling, and Fielding* metrics.  
 The data was collected from [ESPN Cricinfo](https://stats.espncricinfo.com) and cleaned with *Power Query, with custom measures built in **DAX*.
